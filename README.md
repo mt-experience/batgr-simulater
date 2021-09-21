@@ -1,0 +1,2 @@
+# batgr-simulater
+Hearthstoneのバトルグラウンドの序盤の行動を検証したい
